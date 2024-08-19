@@ -3,4 +3,5 @@
 - Estado del proyecto: En construcción.
 
 ``` nmp install react ```
-Sistema de regitro 2
+
+- Sistema de regitro 2
